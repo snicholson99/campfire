@@ -1,6 +1,6 @@
 {
-  "short_name": "Refill",
-  "name": "Refill",
+  "short_name": "Campfire",
+  "name": "Campfire CSS Animation",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
